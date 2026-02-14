@@ -11,6 +11,7 @@ Professor: [Marco André Mendes](github.com/marcoandre)
 Equipe:
 - [Arthur de Olveira Fernandes](https://github.com/ArtthurFernandes)
 - [João Gabriel Menezes de Oliveira Mota](https://github.com/joaogmotaa)
+- [Victor de Sousa](https://github.com/victor-de-sousa)
 
 Links do projeto:
 (*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)

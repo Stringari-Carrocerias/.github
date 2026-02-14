@@ -1,4 +1,4 @@
-# Projeto Integrador - Modelo
+# Projeto Integrador - Stringari Carrocerias
 *(Coloque aqui o nome do seu projeto.)*
 
 Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
@@ -9,12 +9,12 @@ Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em D
 Professor: [Marco André Mendes](github.com/marcoandre)
 
 Equipe:
-- [Aluno1](github.com/aluno1)
-- [Aluno2](github.com/aluno2)
+- [Arthur de Olveira Fernandes](https://github.com/ArtthurFernandes)
+- [João Gabriel Menezes de Oliveira Mota](https://github.com/joaogmotaa)
 
 Links do projeto:
 (*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
--   [Documentação (esse documento)](github.com/marcoandre/pi-modelo)
+-   [Documentação](https://github.com/Stringari-Carrocerias)
 -   Backend: [Repositório](github.com/marcoandre/pi-backend) e [Publicação](https://pi-backend.herokuapp.com/)
 -   Frontend: [Repositório](github.com/marcoandre/pi-frontend) e [Publicação](https://pi-frontend.herokuapp.com/)
 

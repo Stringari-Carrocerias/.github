@@ -9,7 +9,7 @@ Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em D
 Professor: [Marco André Mendes](github.com/marcoandre)
 
 Equipe:
-- [Arthur de Olveira Fernandes](https://github.com/ArtthurFernandes)
+- [Arthur de Oliveira Fernandes](https://github.com/ArtthurFernandes)
 - [João Gabriel Menezes de Oliveira Mota](https://github.com/joaogmotaa)
 - [Victor de Sousa](https://github.com/victor-de-sousa)
 

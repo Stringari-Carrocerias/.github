@@ -1,6 +1,6 @@
 # Projeto Integrador - Stringari Carrocerias
 
-Aplicação web desenvolvido para ampliar a presença digital da empresa [Stringari Carrocerias](https://www.instagram.com/stringaricarrocerias/), atraindo clientes e potenciais colaboradores.   
+Aplicação web desenvolvida para ampliar a presença digital da empresa [Stringari Carrocerias](https://www.instagram.com/stringaricarrocerias/), atraindo clientes e potenciais colaboradores.   
 
 **IMPORTANTE**: [**Cadastre seu projeto nesta planilha**](https://docs.google.com/spreadsheets/d/1bSb1-S9qOf46fNH8quyoFpcjcTuBMj_EdSPchOuFULY/edit?usp=sharing).
 

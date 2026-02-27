@@ -7,7 +7,6 @@ Aplicação web desenvolvida para ampliar a presença digital da empresa [String
 Professor: [Marco André Mendes](https://github.com/marrcandre)
 
 Equipe:
-- [Arthur de Oliveira Fernandes](https://github.com/ArtthurFernandes)
 - [João Gabriel Menezes de Oliveira Mota](https://github.com/joaogmotaa)
 - [Victor de Sousa](https://github.com/victor-de-sousa)
 

@@ -23,16 +23,12 @@ Links do projeto:
 
 **1.1 Modelos de Sistemas**
 
-**Nessa parte a equipe deve escolher um dos modelos de sistemas para desenvolver o projeto. Ao escolher, escreva uma breve descrição do sistema e o motivo da escolha e pode apagar os outros modelos.**
-
 **1.1.1 Ponto de Vendas (PDV)**
 
-**Gerenciamento de vendas para uma padaria**
+**Controle de vendas e contratação para uma fábrica de carrocerias**
 
-O nosso cliente, Sr. Genival, tem uma padaria de bairro chamada padaria Pão Genial e, devido a qualidade de seus produtos, ela está crescendo rapidamente. Recentemente, ele contratou mais funcionários para atendimento, caixa, panificação, etc.
-Assim, atualmente, ele consegue concentrar seus esforços para melhorar a gestão da padaria. Para isso, ele quer instalar um sistema de controle de vendas que permita ao caixa lançar as vendas realizadas. Como sua intenção
-é melhorar a gestão do negócio, é muito importante que ele consiga ter
-relatórios, como por exemplo, de vendas.
+O nosso cliente, Douglas Stringari, possui uma fábrica de carrocerias chamada Stringari Carrocerias, cujo crescimento está em uma fase estável.
+Atualmente, ele concentra seus esforços na mão de obra e nas vendas da fábrica. Para isso, ele deseja uma aplicação para controle de vendas e contratação de funcionários que permita ao cliente visualizar os modelos de carroceria, solicitar orçamentos e enviar currículos. Como sua intenção é melhorar o alcance da fábrica, é muito importante que ele tenha acesso aos currículos enviados e aos clientes que solicitaram orçamentos.
 
 # 2. Situação Problema
 

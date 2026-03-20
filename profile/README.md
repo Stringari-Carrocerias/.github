@@ -46,19 +46,11 @@ Portanto, é necessário que haja um sistema que automatize esses processos, par
 
 # 3. Descrição da proposta
 
-Após entender o problema, proponha uma solução que será útil nos aspectos de dificuldade encontrados. Assim, aqui você deverá **explicar de maneira resumida, e preferencialmente mais textual, como o software funcionará**. Pense nesse texto como uma **introdução ao seu cliente** do que você pretende fazer por ele, para que ele confirme se realmente está dentro do desejado e permita sua continuidade.
+Para que clientes e os donos tenham uma maneira mais automatizada dos processos de envio de currículo e orçamento, o software armazenará dados sobre currículos e orçamentos para que os donos possam acessar de maneira rápida e objetiva as informações. 
 
-**Alguns pontos importantes a se destacar são:**
+A aplicação desenvolvida permitirá que o cliente acesse os modelos das carrocerias sem a necessidade de entrar em contato com a empresa. 
 
--   **Qual o foco de ação do software** relacionado com os problemas levantados na análise da situação-problema. O que realmente o software vai fazer. Por exemplo, o foco de ação do Gmail é permitir o envio e recebimento de e-mails.
-
--   **Os níveis de usuário do sistema**. Somente o gestor tem acesso? E os funcionários? Talvez seja para ambos, ou para funcionários de cargos
-    diferentes, etc.
--   **O que poderá ser feito no software**.Apenas o principal, sem pensar em telas ou detalhes específicos, pois isso será feito em outro momento.
--   **Se houver mais de um nível de usuário**, ressaltar as diferenças entre eles na descrição da proposta.
-
-Tenha em mente que essa é uma etapa relativamente breve. Não é necessário um texto gigantesco, apenas dar uma noção do funcionamento do sistema. Mais adiante
-precisaremos ser bem detalhistas, todavia agora a intenção é apenas fazer algo que permita ao cliente nos dizer se estamos no caminho certo.
+Apenas clientes e os donos terão acesso à aplicação. Clientes terão acesso aos modelos de carrocerias e ao envio de currículo, além da solicitação e processo dos orçamentos. Os donos terão acesso aos currículos enviados e aos orçamentos feitos, onde cada usuário será distinguido.
 
 # 4. Modelagem de Dados
 

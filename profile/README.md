@@ -32,26 +32,17 @@ Atualmente, ele concentra seus esforços na mão de obra e nas vendas da fábric
 
 # 2. Situação Problema
 
-*(Nessa parte a equipe deve descrever a situação problema que será resolvida pelo sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.)*
+  A empresa Stringari Carrocerias, é uma fábrica que monta carrocerias personalizadas para seus clientes. A empresa atua com excelência há mais de 20 anos. Os donos são José Douglas Stringari e Jaqueline Raimundo Stringari. A empresa conta com cerca de 6 funcionários.
+  
+Os dois precisam verificar se houve alguma mensagem nova sobre um possível envio de currículo, que são enviados pelo Whatsapp ou pessoalmente.
+  
+Jaqueline precisa verificar constantemente sobre os orçamentos realizados. Atualmente, os pedidos de orçamento são feitos pelo Whatsapp ou pessoalmente.
 
-![Ciclo da Venda](docs/ciclo_da_venda.webp "Ciclo da Venda")
+Os clientes precisam entrar em contato com os donos para que possam ver possibilidades de orçamento ou modelos de carrocerias. Eles entram em contato via Whatsapp ou pessoalmente.
 
-Descrevem o que acontece atualmente na empresa em um contexto global,
-abordando o funcionamento da empresa como um todo, não apenas os “problemas” que lá ocorrem.
-
-Sabendo disso, seu papel é **detalhar o funcionamento da empresa escolhida na
-atualidade, ou seja, antes de seu novo software**, usando como base a situação que passamos, mas aprofundando os detalhes de como as coisas acontecem.
-
--   Pesquise sobre empresas do ramo escolhido
-    para entender como funcionam;
--   Aproveite seus conhecimentos previamente adquiridos na área da empresa que escolheu, se houver;
--   Simule uma situação real. Lembre-se que são propostas com empresas fictícias, sendo assim, você terá que tomar certas decisões sobre como a empresa funciona em relação às coisas que não estão definidas no documento base (por exemplo, no caso da padaria, dizemos que seu Genival contratou mais funcionários, mas saber quantos e o que fazem pode ser relevante para o software), então tente “visualizar” a empresa funcionando, como se você estivesse lá acompanhando o dia-a-dia;
-
-Seguindo essas dicas, você deve ser capaz de descrever o dia-a-dia da empresa selecionada. E para ajudar na organização do texto, indicamos uma abordagem em 3 etapas:
-
--   **Introdução**: comece com um parágrafo apresentando a empresa (nome, o que faz, tempo de existência, o dono, funcionários, etc);
--   **Situação-problema**: Aborde em detalhes como a empresa funciona, procurando seguir uma ordem lógica dos acontecimentos e organizando parágrafos diferentes para cada coisa diferente que for explicar (como faria em uma redação);
--   **Conclusão**: tenha um parágrafo de conclusão focando nos problemas que você notou dentro da situação problema analisada e aponte brevemente como um software poderia ajudar a resolvê-los.
+Pessoas que gostariam de trabalhar na empresa precisam entrar em contato direto com a empresa, não há uma maneira automática para esse processo onde alguém poderia cadastrar seu currículo e os enviar. Eles entram em contato via Whatsapp ou pessoalmente.
+  
+Portanto, é necessário que haja um sistema que automatize esses processos, para que essas tarefas se tornem automáticas.
 
 # 3. Descrição da proposta
 
@@ -60,6 +51,7 @@ Após entender o problema, proponha uma solução que será útil nos aspectos d
 **Alguns pontos importantes a se destacar são:**
 
 -   **Qual o foco de ação do software** relacionado com os problemas levantados na análise da situação-problema. O que realmente o software vai fazer. Por exemplo, o foco de ação do Gmail é permitir o envio e recebimento de e-mails.
+
 -   **Os níveis de usuário do sistema**. Somente o gestor tem acesso? E os funcionários? Talvez seja para ambos, ou para funcionários de cargos
     diferentes, etc.
 -   **O que poderá ser feito no software**.Apenas o principal, sem pensar em telas ou detalhes específicos, pois isso será feito em outro momento.

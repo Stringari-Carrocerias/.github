@@ -126,90 +126,168 @@ repassar ao cliente para aprovação, e caso o cliente aprovar, a atendente deve
 
 # 5. Requisitos funcionais
 
-RF001 - O sistema deve manter usuário:
+RF001 - O sistema deve manter usuário
+
 RF002 - O sistema deve exibir uma tela de cadastro
+
 RF003 - O sistema deve permitir que o usuário insira seus dados para a realização do cadastro
+
 RF004 - O sistema deve redirecionar o usuário entre as tela de login e cadastro
+
 RF005 - O sistema deve permitir que o usuário cadastre seus dados
+
 RF006 - O sistema deve permitir o cancelamento dos dados inseridos
+
 RF007 - O sistema deve exibir uma tela de login
+
 RF008 - O sistema deve permitir que o usuário insira seus dados para a realização do login
+
 RF009 - O sistema deve permitir que o usuário faça o login
+
 RF010 - O sistema deve redirecionar o usuário para a tela de login após realizar o cadastro
+
 RF011 - O sistema deve redirecionar o usuário para a tela de início após realizar o login
+
 RF012 - O sistema deve exibir uma tela de início
+
 RF013 - O sistema deve exibir uma seção na tela de início sobre as informações da empresa
+
 RF014 - O sistema deve exibir uma seção na tela de início sobre os modelos das carrocerias
+
 RF015 - O sistema deve exibir uma seção na tela de início sobre os currículos
+
 RF016 - O sistema deve permitir que o usuário seja redirecionado entre as telas da tela inicial
-RF017 - O sistema deve manter modelos de carroceria:
-RF018 - O sistema deve manter caminhão recomendado:
-RF019 - O sistema deve exibir uma tela de modelos:
-RF020 - O sistema deve listar modelos:
+
+RF017 - O sistema deve manter modelos de carroceria
+
+RF018 - O sistema deve manter caminhão recomendado
+
+RF019 - O sistema deve exibir uma tela de modelos
+
+RF020 - O sistema deve listar modelos
+
 RF021 - O sistema deve exibir um botão “Ver modelo” para redirecionar o usuário para tela individual do modelo
+
 RF022 - O sistema deve exibir um botão “Fazer orçamento” para redirecionar o usuário para tela de orçamentos
+
 RF023 - O sistema deve manter orçamento
+
 RF024 - O sistema deve exibir uma tela de orçamento
+
 RF025 - O sistema deve autopreencher dados que já foram inseridos no cadastro do usuário
+
 RF026 - O sistema deve permitir que o usuário selecione um dos modelos de carroceria
-RF027 - O sistema deve manter currículo:
+
+RF027 - O sistema deve manter currículo
+
 RF028 - O sistema deve exibir uma tela de Trabalhe Conosco
- Onde será mostrado as vagas disponíveis
+ 
 RF029 - O sistema deve listar vagas disponíveis
+
 RF030 - O sistema deve redirecionar o usuário para a tela de envio de currículo
- Um botão candidatar-se
+
 RF031 - O sistema deve permitir que o usuário faça o upload do seu currículo
+
 RF032 - O sistema deve permitir que o usuário adicione suas experiências profissionais
+
 RF033 - O sistema deve exibir um botão “Adicionar experiência”
+
 RF034 - O sistema deve exibir uma mensagem de sucesso em quaisquer ações adicionadas ou salvas corretamente
+
 RF035 - O sistema deve exibir uma mensagem de erro, em quaisquer ações adicionadas ou salvas em que os dados inseridos estão incorretos
+
 RF036 - O sistema deve exibir um botão “Cancelar”
+
 RF037 - O sistema deve exibir uma mensagem de aviso sobre quaisquer cancelamento/ação de exclusão/saída de conta feito tanto pelo usuário quanto pelo admin
+
 RF038 - O sistema deve exibir um botão “Sim”, para aceitar o cancelamento
+
 RF039 - O sistema deve exibir um botão “Não”, para recusar o cancelamento
+
 RF040 - O sistema deve exibir uma mensagem de sucesso, caso os dados sejam retirados com sucesso
+
 RF041 - O sistema deve exibir uma mensagem de erro, caso os dados não forem retirados ao pressionar o botão “Sim”
+
 RF042 - O sistema deve possuir um botão “Enviar currículo” para que o usuário faça o envio do seu currículo
+
 RF043 - O sistema deve permitir que o usuário se redirecione entre as telas “Meus orçamentos” e “Meu Currículo”
+
 RF044 - O sistema deve redirecionar o usuário para a tela de “Meus orçamentos”
+
 RF045 - O sistema deve exibir uma tela de “Meus orçamentos”
+
 RF046 - O sistema deve listar os orçamentos feitos pelo usuário
+
 RF047 - O sistema deve permitir que o usuário observe o progresso de cada orçamento
+
 RF048 - O sistema deve redirecionar o usuário para a tela de “Meus currículos”
+
 RF049 - O sistema deve listar os currículos enviados pelo usuário
+
 RF050 - O sistema deve exibir ao usuário o status dos currículos enviados
+
 RF051 - O sistema deve permitir que o admin veja o currículo enviado pelo usuário
+
 RF052 - O sistema deve diferenciar o acesso de um admin e o de um usuário
+
 RF053 - O sistema deve exibir uma tela inicial com relatórios sobre orçamentos e currículos para o admin
+
 RF054 - O sistema deve exibir ao admin os currículos enviados pelos usuários
+
 RF055 - O sistema deve exibir ao admin os orçamentos enviados pelos usuários
+
 RF056 - O sistema deve exibir a contagem dos currículos enviados ao admin
+
 RF057 - O sistema deve exibir a contagem dos orçamentos feitos ao admin
+
 RF058 - O sistema deve redirecionar o admin para a tela de Orçamentos
+
 RF059 - O sistema deve exibir uma tela de orçamentos feitos pelos usuários ao admin
+
 RF060 - O sistema deve listar orçamentos feitos pelos usuários ao admin
+
 RF061 - O sistema deve permitir que o admin aceite algum orçamento
+
 RF062 - O sistema deve permitir que o admin recuse algum orçamento
+
 RF063 - O sistema deve exibir ao admin o progresso de cada orçamento
+
 RF064 - O sistema deve possuir um botão “Ver mais”, onde o admin poderá observar com mais detalhes cada orçamento.
+
 RF065 - O sistema deve redirecionar o admin para a tela de currículos enviados
+
 RF066 - O sistema deve exibir uma tela de currículos enviados ao admin
+
 RF067 - O sistema deve listar os currículos enviados ao admin
- Mostra o nome, foto, currículo, experiências
+
 RF068 - O sistema deve possuir um botão “Veja mais”, onde o admin poderá observar com mais detalhes sobre cada currículo.
+
 RF069 - O sistema deve permitir que o admin aceite algum currículo
+
 RF070 - O sistema deve permitir que o admin recuse algum currículo
+
 RF071 - O sistema deve redirecionar o admin para a tela de vagas
+
 RF072 - O sistema deve permitir que o admin exclua alguma vaga
+
 RF073 - O sistema deve permitir que o admin modifique alguma vaga
+
 RF074 - O sistema deve redirecionar o admin para a tela de adição de vagas
+
 RF075 - O sistema deve exibir uma tela de adição de vagas
+
 RF076 - O sistema deve permitir que o admin adicione alguma vaga
+
 RF077 - O sistema deve possuir um botão “Voltar” para quaisquer deslocamento do usuário/admin entre telas fora das telas principais “Início, Modelos, Orçamentos, Currículos, Meus orçamentos, Meus currículos, Vagas”
+
 RF078 - O sistema deve redirecionar o usuário/admin para a tela de configurações
+
 RF079 - O sistema deve exibir uma tela de configurações
+
 RF080 - O sistema deve permitir que o usuário/admin altere suas informações
+
 RF081 - O sistema deve permitir que o usuário/admin salve alterações
+
 RF082 - O sistema deve permitir que o usuário/admin não salve suas alterações
 
 # 6. Requisitos não funcionais

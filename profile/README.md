@@ -1,4 +1,4 @@
-<img width="1070" height="764" alt="image" src="https://github.com/user-attachments/assets/d5ce4b5c-240a-4551-9bb7-425de370f26b" /># Projeto Integrador - Stringari Carrocerias
+# Projeto Integrador - Stringari Carrocerias
 
 Aplicação web desenvolvida para ampliar a presença digital da empresa [Stringari Carrocerias](https://www.instagram.com/stringaricarrocerias/), atraindo clientes e potenciais colaboradores.   
 

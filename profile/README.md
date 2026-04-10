@@ -54,7 +54,7 @@ Apenas clientes e os donos terão acesso à aplicação. Clientes terão acesso 
 
 # 4. Modelagem de Dados
 
-<img width="1070" height="764" alt="image" src="https://github.com/user-attachments/assets/1f940802-2525-484a-918a-dfef6a55c33b" />
+<img width="1083" height="787" alt="image" src="https://github.com/user-attachments/assets/5c7f2e83-48d7-41c7-903a-abd5d0546bd1" />
 
 # 4. Regras de negócio
 (*Nessa parte a equipe deve descrever as regras de negócio que serão implementadas no sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.*)

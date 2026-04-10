@@ -1,4 +1,4 @@
-# Projeto Integrador - Stringari Carrocerias
+<img width="1070" height="764" alt="image" src="https://github.com/user-attachments/assets/d5ce4b5c-240a-4551-9bb7-425de370f26b" /># Projeto Integrador - Stringari Carrocerias
 
 Aplicação web desenvolvida para ampliar a presença digital da empresa [Stringari Carrocerias](https://www.instagram.com/stringaricarrocerias/), atraindo clientes e potenciais colaboradores.   
 
@@ -54,7 +54,7 @@ Apenas clientes e os donos terão acesso à aplicação. Clientes terão acesso 
 
 # 4. Modelagem de Dados
 
-<img width="1197" height="780" alt="Screenshot from 2026-03-27 23-06-34" src="https://github.com/user-attachments/assets/d2bf4e3b-e1e6-43e8-b3d6-6013695abdd0" />
+<img width="1070" height="764" alt="Captura de tela de 2026-04-10 13-55-26" src="https://github.com/user-attachments/assets/71e8d60d-e793-4b0e-81dc-ce575875d5f2" />
 
 # 4. Regras de negócio
 (*Nessa parte a equipe deve descrever as regras de negócio que serão implementadas no sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.*)

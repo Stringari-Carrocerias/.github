@@ -13,13 +13,10 @@ Equipe:
 Links do projeto:
 (*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
 -   [Documentação](https://github.com/Stringari-Carrocerias)
--   Backend: [Repositório](github.com/marcoandre/pi-backend) e [Publicação](https://pi-backend.herokuapp.com/)
--   Frontend: [Repositório](github.com/marcoandre/pi-frontend) e [Publicação](https://pi-frontend.herokuapp.com/)
+-   Backend: [Repositório](https://github.com/Stringari-Carrocerias/stringari-backend) e [Publicação](https://pi-backend.herokuapp.com/)
+-   Frontend: [Repositório](https://github.com/Stringari-Carrocerias/stringari-mobile) e [Publicação](https://pi-frontend.herokuapp.com/)
 
 # 1. Desenvolvimento
-*(Escolha um dos modelos de sistemas para desenvolver o projeto. Apague as informações desnecessárias depois.)*
--   As equipes serão avaliadas por cada etapa da documentação e entregas realizadas.
--   Cada equipe deverá escolher um sistema para o desenvolvimento das atividades, a partir dos modelos apresentados.
 
 **1.1 Modelos de Sistemas**
 

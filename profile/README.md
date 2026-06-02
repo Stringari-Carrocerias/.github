@@ -14,7 +14,7 @@ Links do projeto:
 (*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
 -   [Documentação](https://github.com/Stringari-Carrocerias)
 -   Backend: [Repositório](https://github.com/Stringari-Carrocerias/stringari-backend) e [Publicação](https://pi-backend.herokuapp.com/)
--   Frontend: [Repositório](https://github.com/Stringari-Carrocerias/stringari-mobile) e [Publicação](https://pi-frontend.herokuapp.com/)
+-   Frontend: [Repositório](https://github.com/Stringari-Carrocerias/stringari-mobile) e [Publicação](stringari-mobile-pi.vercel.app/)
 
 # 1. Desenvolvimento
 

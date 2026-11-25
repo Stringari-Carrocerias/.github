@@ -6,6 +6,10 @@ Aplicação web desenvolvida para ampliar a presença digital da empresa [String
 
 Professor: [Marco André Mendes](https://github.com/marrcandre)
 
+- Acesse com o usuário e senha a seguir:
+- a@a.com
+- teste.123
+
 Equipe:
 - [João Gabriel Menezes de Oliveira Mota](https://github.com/joaogmotaa)
 - [Victor de Sousa](https://github.com/victor-de-sousa)
